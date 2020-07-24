@@ -53,6 +53,9 @@
 <a href="https://github.com/Maninder-mike">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maninder-mike&theme=radical" width="50%"/>
 </a>
+<br>
+![image](https://github.com/Maninder-mike/maninder-mike/edit/master/dino.gif)
+
 
 <!-- <a href="https://github.com/Maninder-mike">
   <img align="center" src="https://github-readme-stat.vercel.app/api/pin/?username=maninder-mike&repo=bant-shuttring-store-renting-system&theme=radical"/>
