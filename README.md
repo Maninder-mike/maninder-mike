@@ -29,9 +29,7 @@
     <br>
 </div>
 
-<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-
-** Hi, I'm Maninder, a passionate self-taught Developer from India.**
+<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> <b>Hi, I'm Maninder, a passionate self-taught Developer from India.</b>
 <br>
 
 - 🔭 I’m currently working on [PyQT5 GUI Renting System](https://github.com/Maninder-mike/bant-shuttring-store-renting-system)
