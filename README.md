@@ -50,14 +50,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=maninder-mike&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f" width="100%"/>
 </a>
 
-<!-- <a href="https://github.com/Maninder-mike">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maninder-mike&theme=radical" width="50%"/>
-</a> -->
-
-
 ![image](https://github.com/Maninder-mike/maninder-mike/blob/master/dino.gif)
-
-
-<!-- <a href="https://github.com/Maninder-mike">
-  <img align="center" src="https://github-readme-stat.vercel.app/api/pin/?username=maninder-mike&repo=bant-shuttring-store-renting-system&theme=radical"/>
-</a> -->
