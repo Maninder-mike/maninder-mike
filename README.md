@@ -55,7 +55,7 @@
 </a> -->
 
 
-![image](https://github.com/Maninder-mike/maninder-mike/edit/master/dino.gif)
+![image](https://github.com/Maninder-mike/maninder-mike/blob/master/dino.gif)
 
 
 <!-- <a href="https://github.com/Maninder-mike">
