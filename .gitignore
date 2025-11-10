@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Go
+bin/
+*.exe
+*.test
+
+# Visual Studio Code
+.vscode/
+
+# Environment
+.env
+.env.local
+
+# Misc
+dist/
+build/
+coverage/
